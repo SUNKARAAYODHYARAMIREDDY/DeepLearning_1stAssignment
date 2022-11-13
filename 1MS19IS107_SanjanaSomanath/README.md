@@ -1,6 +1,6 @@
 DL first assignment
 The anomaly percent observed is 80%
-Dataset used : Dataset 17
+Dataset used : Dataset 15
 Steps Followed
 The below steps are carried out:
 
