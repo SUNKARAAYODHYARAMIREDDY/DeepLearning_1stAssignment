@@ -6,7 +6,7 @@
 #### Alloted dataset: 31.txt
 
 Following are the steps:                                   
-1. Import pandas and matplotlib.pyplot.
+1. Import pandas and matplotlib.pyplot, seaborn, warnings.
 2. Load data using pd.read_csv
 3. Calculate mean, median and mode for all columns.
 4. Use percentile to find outliers.
